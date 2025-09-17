@@ -1,0 +1,27 @@
+# ========================
+# Node.js / Next.js files
+# ========================
+node_modules/          # Node dependencies
+.next/                 # Next.js build cache
+dist/                  # any build/dist folders
+npm-debug.log*         # npm debug logs
+yarn-error.log*        # yarn debug logs
+.env                   # environment variables
+
+# ========================
+# Python / Jupyter files
+# ========================
+__pycache__/           # Python cache
+*.pyc                  # Python bytecode
+.ipynb_checkpoints/    # Jupyter notebook temp checkpoints
+
+# ========================
+# OS / Misc files
+# ========================
+.DS_Store              # macOS system files
+Thumbs.db              # Windows system files
+
+# ========================
+# Optional logs / reports
+# ========================
+*.log
