@@ -1,5 +1,11 @@
+
 node_modules/
 .next/
 dist/
 .env
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.DS_Store
+Thumbs.db
 
